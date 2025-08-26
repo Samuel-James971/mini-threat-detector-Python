@@ -27,13 +27,13 @@ To run the tool, execute `python main.py` from the project folder with the virtu
 *This screenshot shows the console alert generated when a new file is added to the `watched/` folder.*
 
 ### File Modified Alert
-![File Modified Alert](docs/screenshots/file_modified.png)
+![image alt](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/1.png?raw=true)
 *This screenshot shows the console alert generated when an existing file in the `watched/` folder is modified.*
 
 ### File Deleted Alert
-![File Deleted Alert](docs/screenshots/file_deleted.png)
+![image alt](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/1.png?raw=true)
 *This screenshot shows the console alert generated when a file is deleted from the `watched/` folder.*
 
 ### Network Monitor Alert
-![Network Monitor Alert](docs/screenshots/network_alert.png)
+![image alt](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/1.png?raw=true)
 *This screenshot shows the network monitor running in safe test mode, simulating network alerts without affecting real network traffic.*
