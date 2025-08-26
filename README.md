@@ -31,7 +31,7 @@ To run the tool, execute `python main.py` from the project folder with the virtu
 *This screenshot shows the console alert generated when an existing file in the `watched/` folder is modified.*
 
 ### File Deleted Alert
-![image alt](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/1.png?raw=true)
+![image alt](https://github.com/Samuel-James971/mini-threat-detector-Python/blob/main/Screenshot%202025-08-26%20125006.png?raw=true)
 *This screenshot shows the console alert generated when a file is deleted from the `watched/` folder.*
 
 ### Network Monitor Alert
