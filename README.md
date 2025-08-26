@@ -23,7 +23,7 @@ To run the tool, execute `python main.py` from the project folder with the virtu
 ## Example Screenshots
 
 ### File Created Alert
-![File Created Alert](docs/screenshots/file_created.png)
+![image alt](https://github.com/Samuel-James971/Cloud-Home-Lab/blob/main/1.png?raw=true)
 *This screenshot shows the console alert generated when a new file is added to the `watched/` folder.*
 
 ### File Modified Alert
